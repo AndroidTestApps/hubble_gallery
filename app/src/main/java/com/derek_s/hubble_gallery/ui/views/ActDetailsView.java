@@ -5,4 +5,9 @@ package com.derek_s.hubble_gallery.ui.views;
  */
 
 public interface ActDetailsView {
+
+    /**
+     * todo setup interface methods
+     */
+
 }
